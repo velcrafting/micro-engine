@@ -1,0 +1,16 @@
+my-micro/
+├─ .github/
+│  └─ workflows/
+│     └─ pages.yml
+├─ src/
+│  ├─ main.ts
+│  └─ style.css
+├─ index.html
+├─ lab.json
+├─ thumbnail.svg
+├─ vite.config.ts
+├─ package.json
+├─ postcss.config.js
+├─ tailwind.config.js
+├─ node_modules/...
+└─ dist/        # created on build
