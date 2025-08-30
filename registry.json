@@ -1,12 +1,12 @@
 [
   {
-    "slug": "qr-generator",
-    "title": "Qr Generator",
+    "slug": "qr-lab",
+    "title": "QR Generator",
     "desc": "Tiny demo qr-generator",
     "owner": "velcrafting",
-    "base": "https://velcrafting.github.io/qr-generator",
-    "proxy": "https://velcrafting.com/labs/qr-generator",
-    "updated": "2025-08-30T16:39:29.853Z",
+    "base": "https://velcrafting.github.io/qr-lab",
+    "proxy": "https://velcrafting.com/labs/qr-lab",
+    "updated": "2025-08-30T16:45:00.000Z",
     "tags": [
       "react",
       "qr",
